@@ -8,4 +8,4 @@ Le projet consistait à créer une application permettant de crypter et décrypt
 
 # Utilisation
 
-Ouvrir le fichier chiffre_vigenere.asm dans Mars, l'assembler et le lancer, suivre ensuite les instructions affichées dans les écrans de l'application.
+Ouvrir le fichier chiffre_vigenere.asm dans Mars (utiliser le fichier jar fourni), l'assembler et le lancer, suivre ensuite les instructions affichées dans les écrans de l'application.
